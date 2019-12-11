@@ -1,0 +1,11 @@
+/home/alberto/Development/NullableDemo/bin/Debug/netcoreapp3.1/NullableDemo
+/home/alberto/Development/NullableDemo/bin/Debug/netcoreapp3.1/NullableDemo.deps.json
+/home/alberto/Development/NullableDemo/bin/Debug/netcoreapp3.1/NullableDemo.runtimeconfig.json
+/home/alberto/Development/NullableDemo/bin/Debug/netcoreapp3.1/NullableDemo.runtimeconfig.dev.json
+/home/alberto/Development/NullableDemo/bin/Debug/netcoreapp3.1/NullableDemo.dll
+/home/alberto/Development/NullableDemo/bin/Debug/netcoreapp3.1/NullableDemo.pdb
+/home/alberto/Development/NullableDemo/obj/Debug/netcoreapp3.1/NullableDemo.csprojAssemblyReference.cache
+/home/alberto/Development/NullableDemo/obj/Debug/netcoreapp3.1/NullableDemo.AssemblyInfoInputs.cache
+/home/alberto/Development/NullableDemo/obj/Debug/netcoreapp3.1/NullableDemo.AssemblyInfo.cs
+/home/alberto/Development/NullableDemo/obj/Debug/netcoreapp3.1/NullableDemo.dll
+/home/alberto/Development/NullableDemo/obj/Debug/netcoreapp3.1/NullableDemo.pdb

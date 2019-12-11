@@ -1,0 +1,11 @@
+/home/alberto/Development/IsAsDemo/bin/Debug/netcoreapp3.1/IsAsDemo
+/home/alberto/Development/IsAsDemo/bin/Debug/netcoreapp3.1/IsAsDemo.deps.json
+/home/alberto/Development/IsAsDemo/bin/Debug/netcoreapp3.1/IsAsDemo.runtimeconfig.json
+/home/alberto/Development/IsAsDemo/bin/Debug/netcoreapp3.1/IsAsDemo.runtimeconfig.dev.json
+/home/alberto/Development/IsAsDemo/bin/Debug/netcoreapp3.1/IsAsDemo.dll
+/home/alberto/Development/IsAsDemo/bin/Debug/netcoreapp3.1/IsAsDemo.pdb
+/home/alberto/Development/IsAsDemo/obj/Debug/netcoreapp3.1/IsAsDemo.csprojAssemblyReference.cache
+/home/alberto/Development/IsAsDemo/obj/Debug/netcoreapp3.1/IsAsDemo.AssemblyInfoInputs.cache
+/home/alberto/Development/IsAsDemo/obj/Debug/netcoreapp3.1/IsAsDemo.AssemblyInfo.cs
+/home/alberto/Development/IsAsDemo/obj/Debug/netcoreapp3.1/IsAsDemo.dll
+/home/alberto/Development/IsAsDemo/obj/Debug/netcoreapp3.1/IsAsDemo.pdb

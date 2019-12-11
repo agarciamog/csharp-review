@@ -1,0 +1,11 @@
+/home/alberto/Development/MulticastDelegateDemo/obj/Debug/netcoreapp3.1/MulticastDelegateDemo.csprojAssemblyReference.cache
+/home/alberto/Development/MulticastDelegateDemo/obj/Debug/netcoreapp3.1/MulticastDelegateDemo.AssemblyInfoInputs.cache
+/home/alberto/Development/MulticastDelegateDemo/obj/Debug/netcoreapp3.1/MulticastDelegateDemo.AssemblyInfo.cs
+/home/alberto/Development/MulticastDelegateDemo/bin/Debug/netcoreapp3.1/MulticastDelegateDemo
+/home/alberto/Development/MulticastDelegateDemo/bin/Debug/netcoreapp3.1/MulticastDelegateDemo.deps.json
+/home/alberto/Development/MulticastDelegateDemo/bin/Debug/netcoreapp3.1/MulticastDelegateDemo.runtimeconfig.json
+/home/alberto/Development/MulticastDelegateDemo/bin/Debug/netcoreapp3.1/MulticastDelegateDemo.runtimeconfig.dev.json
+/home/alberto/Development/MulticastDelegateDemo/bin/Debug/netcoreapp3.1/MulticastDelegateDemo.dll
+/home/alberto/Development/MulticastDelegateDemo/bin/Debug/netcoreapp3.1/MulticastDelegateDemo.pdb
+/home/alberto/Development/MulticastDelegateDemo/obj/Debug/netcoreapp3.1/MulticastDelegateDemo.dll
+/home/alberto/Development/MulticastDelegateDemo/obj/Debug/netcoreapp3.1/MulticastDelegateDemo.pdb

@@ -1,0 +1,11 @@
+/home/alberto/Development/EnumerableRepeatDemo/obj/Debug/netcoreapp3.1/EnumerableRepeatDemo.csprojAssemblyReference.cache
+/home/alberto/Development/EnumerableRepeatDemo/obj/Debug/netcoreapp3.1/EnumerableRepeatDemo.AssemblyInfoInputs.cache
+/home/alberto/Development/EnumerableRepeatDemo/obj/Debug/netcoreapp3.1/EnumerableRepeatDemo.AssemblyInfo.cs
+/home/alberto/Development/EnumerableRepeatDemo/bin/Debug/netcoreapp3.1/EnumerableRepeatDemo
+/home/alberto/Development/EnumerableRepeatDemo/bin/Debug/netcoreapp3.1/EnumerableRepeatDemo.deps.json
+/home/alberto/Development/EnumerableRepeatDemo/bin/Debug/netcoreapp3.1/EnumerableRepeatDemo.runtimeconfig.json
+/home/alberto/Development/EnumerableRepeatDemo/bin/Debug/netcoreapp3.1/EnumerableRepeatDemo.runtimeconfig.dev.json
+/home/alberto/Development/EnumerableRepeatDemo/bin/Debug/netcoreapp3.1/EnumerableRepeatDemo.dll
+/home/alberto/Development/EnumerableRepeatDemo/bin/Debug/netcoreapp3.1/EnumerableRepeatDemo.pdb
+/home/alberto/Development/EnumerableRepeatDemo/obj/Debug/netcoreapp3.1/EnumerableRepeatDemo.dll
+/home/alberto/Development/EnumerableRepeatDemo/obj/Debug/netcoreapp3.1/EnumerableRepeatDemo.pdb

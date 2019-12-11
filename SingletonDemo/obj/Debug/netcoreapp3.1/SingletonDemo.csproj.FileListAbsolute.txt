@@ -1,0 +1,11 @@
+/home/alberto/Development/SingletonDemo/obj/Debug/netcoreapp3.1/SingletonDemo.csprojAssemblyReference.cache
+/home/alberto/Development/SingletonDemo/obj/Debug/netcoreapp3.1/SingletonDemo.AssemblyInfoInputs.cache
+/home/alberto/Development/SingletonDemo/obj/Debug/netcoreapp3.1/SingletonDemo.AssemblyInfo.cs
+/home/alberto/Development/SingletonDemo/bin/Debug/netcoreapp3.1/SingletonDemo
+/home/alberto/Development/SingletonDemo/bin/Debug/netcoreapp3.1/SingletonDemo.deps.json
+/home/alberto/Development/SingletonDemo/bin/Debug/netcoreapp3.1/SingletonDemo.runtimeconfig.json
+/home/alberto/Development/SingletonDemo/bin/Debug/netcoreapp3.1/SingletonDemo.runtimeconfig.dev.json
+/home/alberto/Development/SingletonDemo/bin/Debug/netcoreapp3.1/SingletonDemo.dll
+/home/alberto/Development/SingletonDemo/bin/Debug/netcoreapp3.1/SingletonDemo.pdb
+/home/alberto/Development/SingletonDemo/obj/Debug/netcoreapp3.1/SingletonDemo.dll
+/home/alberto/Development/SingletonDemo/obj/Debug/netcoreapp3.1/SingletonDemo.pdb

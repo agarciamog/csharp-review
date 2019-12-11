@@ -1,0 +1,11 @@
+/home/alberto/Development/InterfacesDemo/bin/Debug/netcoreapp3.1/InterfacesDemo
+/home/alberto/Development/InterfacesDemo/bin/Debug/netcoreapp3.1/InterfacesDemo.deps.json
+/home/alberto/Development/InterfacesDemo/bin/Debug/netcoreapp3.1/InterfacesDemo.runtimeconfig.json
+/home/alberto/Development/InterfacesDemo/bin/Debug/netcoreapp3.1/InterfacesDemo.runtimeconfig.dev.json
+/home/alberto/Development/InterfacesDemo/bin/Debug/netcoreapp3.1/InterfacesDemo.dll
+/home/alberto/Development/InterfacesDemo/bin/Debug/netcoreapp3.1/InterfacesDemo.pdb
+/home/alberto/Development/InterfacesDemo/obj/Debug/netcoreapp3.1/InterfacesDemo.csprojAssemblyReference.cache
+/home/alberto/Development/InterfacesDemo/obj/Debug/netcoreapp3.1/InterfacesDemo.AssemblyInfoInputs.cache
+/home/alberto/Development/InterfacesDemo/obj/Debug/netcoreapp3.1/InterfacesDemo.AssemblyInfo.cs
+/home/alberto/Development/InterfacesDemo/obj/Debug/netcoreapp3.1/InterfacesDemo.dll
+/home/alberto/Development/InterfacesDemo/obj/Debug/netcoreapp3.1/InterfacesDemo.pdb
